@@ -1,3 +1,4 @@
 changelog item 1
 changelog item 2
 changelog item 3
+changelog item 4
